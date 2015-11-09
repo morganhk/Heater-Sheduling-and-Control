@@ -12,7 +12,7 @@ ini_set('display_errors', true);
 $string_data = file_get_contents("status.txt");
 $heaterStatus = unserialize($string_data);
 
-switch(trim($_GET['a'])
+switch(trim($_GET['a'])){
 	case "OFF":
 		exec("sudo gpio mode 1 out");
 		$heaterStatus = "OFF";
