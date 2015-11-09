@@ -1,7 +1,9 @@
+```
 【・ヘ・?】 -- Readme
-2015-11-09
-ʕ•ᴥ•ʔ -- Morgan Aasdam
-Public Domain
+ 2015-11-09
+ ʕ•ᴥ•ʔ -- Morgan Aasdam
+ Public Domain
+```
 
 - Depends on: http://wiringpi.com/, PHP, Apache httpd
 - Runs on: Raspberry Pi (Type: Model B, Revision: 1, Memory: 256MB)
