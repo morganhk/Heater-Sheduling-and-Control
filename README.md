@@ -1,10 +1,10 @@
-# 【・ヘ・?】 -- Readme
-#  2015-11-09
-#  ʕ•ᴥ•ʔ -- Morgan Aasdam
-#  Public Domain
+【・ヘ・?】 -- Readme
+ 2015-11-09
+ ʕ•ᴥ•ʔ -- Morgan Aasdam
+ Public Domain
 
-Depends on: http://wiringpi.com/, PHP, Apache httpd
-Runs on: Raspberry Pi (Type: Model B, Revision: 1, Memory: 256MB)
+- Depends on: http://wiringpi.com/, PHP, Apache httpd
+- Runs on: Raspberry Pi (Type: Model B, Revision: 1, Memory: 256MB)
 
 Simple set of scripts to automate and remote control a heater.
 Makes use of a relay connected to the Pi's GPIO port 1, 5v and GND.
